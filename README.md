@@ -14,3 +14,5 @@ Deep dive into Deep learning
 (reference) https://www.edwith.org/deeplearningchoi
 
 (reference) https://www.edwith.org/deepnlp
+
+(reference) https://github.com/jskDr/keraspp
