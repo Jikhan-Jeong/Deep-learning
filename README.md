@@ -1,6 +1,8 @@
 # Deep-learning
 Deep dive into Deep learning
 
+(reference) 3min DL GIT : https://github.com/jskDr/keraspp
+
 (reference) https://www.manning.com/books/deep-learning-with-python
 
 (reference) http://doc.mindscale.kr/km/unstructured/
