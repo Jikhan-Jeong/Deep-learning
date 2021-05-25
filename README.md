@@ -1,6 +1,7 @@
 # Deep Learning in 2021
 
-Deep learning from scratch 2 (Korean)  
+Deep learning from scratch 2 (Korean) 
+- W2V, RNN, and Attention  
 
 https://www.youtube.com/playlist?list=PLoKUz8eWrqAdafTzTkDf3HnWjgPlq-0wo
 
